@@ -1,0 +1,211 @@
+# Copyright (C) 2015 Daniel Hrenak
+# This file is distributed under the GPLv2 or later (license.txt).
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokeSignal v1.0\n"
+"Report-Msgid-Bugs-To: https://smokesignal.trac.wordpress.org\n"
+"POT-Creation-Date: 2016-01-27 18:35+0100\n"
+"PO-Revision-Date: 2016-02-01 22:31+0100\n"
+"Last-Translator: Daniel Hrenak <daniel.hrenak@gmail.com>\n"
+"Language-Team:  <daniel.hrenak@gmail.com>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: /www/wp/wp41/wp-content/plugins/smokesignal\n"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:67
+msgid "User Messages"
+msgstr "Zprávy uživatelů"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:67
+msgid "Messages"
+msgstr "Zprávy"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:71
+msgid "User Groups"
+msgstr "Skupiny užívatelů"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:71
+msgid "Groups"
+msgstr "Skupiny"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:87
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:265
+msgid "You have new messages"
+msgstr "Máš nové zprávy"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:267
+msgid "has wrote you: "
+msgstr "ti napísal(a):"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:271
+msgid "You can reply in your user section at"
+msgstr "Odpovědět môžeš v užívatelské části na stránce"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/class.smokesignal.php:273
+msgid "... and have a nice day :)"
+msgstr "... a přeji pěkný den :)"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/group.php:8
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:13
+msgid "New message to a group"
+msgstr "Nová zpráva skupině"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/group.php:13
+msgid "Send to all users in group"
+msgstr "Poslat všem užívatelům ve skupině"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/group.php:22
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/new.php:18
+msgid "Message"
+msgstr "Zpráva"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/group.php:25
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/new.php:22
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/reply.php:12
+msgid "Add attachment"
+msgstr "Vložit soubor"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/group.php:30
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/new.php:28
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/reply.php:16
+msgid "Send"
+msgstr "Odeslat"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/edit.php:14
+msgid "Edit group"
+msgstr "Upravit skupinu"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/edit.php:20
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:22
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/new.php:12
+msgid "Group name"
+msgstr "Název skupiny"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/edit.php:27
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:23
+msgid "Users"
+msgstr "Užívatelé"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/edit.php:44
+msgid "Save"
+msgstr "Uložit"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:7
+msgid "User groups"
+msgstr "Uživatelské skupiny"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:8
+msgid "New group"
+msgstr "Nová skupina"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:16
+msgid "No created groups."
+msgstr "Žádné vytvořené skupiny."
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/list.php:42
+msgid "Edit"
+msgstr "Upravit"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/new.php:7
+msgid "Create new group"
+msgstr "Vytvořit novou skupinu"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/groups/new.php:18
+msgid "Create"
+msgstr "Vytvořit"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:10
+msgid "My messages"
+msgstr "Moje zprávy"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:11
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/new.php:3
+msgid "New message"
+msgstr "Nová zpráva"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:21
+msgid "No new messages."
+msgstr "Žádné zprávy."
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:46
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/list.php:70
+msgid "View and reply"
+msgstr "Zobrazit a odpovědět"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/new.php:8
+msgid "Send to"
+msgstr "Příjemce"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/reply.php:3
+msgid "Communication with"
+msgstr "Komunikace s "
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/reply.php:32
+msgid "Load more"
+msgstr "Načíst další"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/reply.php:34
+msgid "No more messages"
+msgstr "Žádné další zprávy"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/single_message.php:14
+msgid "Message to group "
+msgstr "Zpráva skupině"
+
+#: /www/wp/wp41/wp-content/plugins/smokesignal/views/single_message.php:34
+msgid "me"
+msgstr "já"
+
+msgid "Select from users"
+msgstr "Vybírat z uživatelů"
+
+msgid "Write username"
+msgstr "Psat uživatelské jméno\t"
+
+msgid "SmokeSignal Settings"
+msgstr "SmokeSignal nastavení"
+
+msgid "General settings"
+msgstr "Všeobecné nastavení"
+
+msgid "Email notifications"
+msgstr "Emailové notifikace"
+
+msgid "Recipient input type"
+msgstr "Zadávaní adresáta"
+
+msgid "send only excerpt of message"
+msgstr "v emailové notifikaci uvádět pouze čásť zprávy"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+#~ msgid "wrote at"
+#~ msgstr "napsal(a) v"
+
+#~ msgid "Send to all users with role"
+#~ msgstr "Poslať všetkým užívateľom s oprávnením"
+
+#~ msgid "You have new message"
+#~ msgstr "Máš novú správu"
+
+#~ msgid "New group message"
+#~ msgstr "Nová správa skupine"
+
+#~ msgid "Group message"
+#~ msgstr "Správa skupine"
+
+#~ msgid "Public message"
+#~ msgstr "Skupinová správa"
+
+#~ msgid "New public message"
+#~ msgstr "Nová skupinová správa"
+
+#~ msgid "Reply Posted!"
+#~ msgstr "Odpoveď bola odoslaná!"
